@@ -5,7 +5,8 @@
 * babitskiy.yura@gmail.com
 
 ## Summary
-I am ready to improve professional skills a lot and persistently. Every day I try to devote time to Android development.
+I am ready to improve professional skills a lot and persistently. Every day I try to devote time to Android development. 
+I believe that I have great potential to become a good programmer.
 ## Skills
 Knowledge of C#, C++, Java, Unity, SQL Server, 3ds Max, Git.
 

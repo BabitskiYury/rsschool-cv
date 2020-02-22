@@ -1,7 +1,7 @@
 # Yury Babitski
 
 ## Contact info:
-* +375 29 285-32-40
+* +375 (29) 285-32-40
 * babitskiy.yura@gmail.com
 
 ## Summary

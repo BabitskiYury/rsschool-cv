@@ -1,1 +1,1 @@
-[Repository link](https://github.com/BabitskiYury/rsschool-cv)
+[link](https://github.com/BabitskiYury/rsschool-cv/cv)
